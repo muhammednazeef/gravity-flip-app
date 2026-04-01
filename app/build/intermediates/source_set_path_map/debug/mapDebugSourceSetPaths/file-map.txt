@@ -1,0 +1,43 @@
+com.example.gravityflip.app-jetified-ui-release-0 /home/nazz/.gradle/caches/8.13/transforms/0baf40e73b76ad7d15c2682de539a91e/transformed/jetified-ui-release/res
+com.example.gravityflip.app-jetified-emoji2-1.3.0-1 /home/nazz/.gradle/caches/8.13/transforms/0d0a4a262ec598c0107916987600ad4e/transformed/jetified-emoji2-1.3.0/res
+com.example.gravityflip.app-jetified-runtime-release-2 /home/nazz/.gradle/caches/8.13/transforms/12beacf9eb63c936c9ea5c61bc30884e/transformed/jetified-runtime-release/res
+com.example.gravityflip.app-jetified-foundation-layout-release-3 /home/nazz/.gradle/caches/8.13/transforms/1c504b9f79a1f27dd4eb1664e91a4f6f/transformed/jetified-foundation-layout-release/res
+com.example.gravityflip.app-jetified-core-ktx-1.12.0-4 /home/nazz/.gradle/caches/8.13/transforms/220a48713a08df149b6dfdee3441f50b/transformed/jetified-core-ktx-1.12.0/res
+com.example.gravityflip.app-jetified-lifecycle-viewmodel-ktx-2.7.0-5 /home/nazz/.gradle/caches/8.13/transforms/226448ebcd2ca792ffc06dc440de766e/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/res
+com.example.gravityflip.app-jetified-lifecycle-runtime-ktx-2.7.0-6 /home/nazz/.gradle/caches/8.13/transforms/335a715031013cb0a22e020352220c34/transformed/jetified-lifecycle-runtime-ktx-2.7.0/res
+com.example.gravityflip.app-jetified-activity-compose-1.8.2-7 /home/nazz/.gradle/caches/8.13/transforms/3414a8a4d33b2ee3dbcb212883d520e0/transformed/jetified-activity-compose-1.8.2/res
+com.example.gravityflip.app-jetified-profileinstaller-1.3.0-8 /home/nazz/.gradle/caches/8.13/transforms/4ad9ed2767de25bff987b6b019433184/transformed/jetified-profileinstaller-1.3.0/res
+com.example.gravityflip.app-jetified-savedstate-1.2.1-9 /home/nazz/.gradle/caches/8.13/transforms/4bb07f15e24912854e1129c1e56974f4/transformed/jetified-savedstate-1.2.1/res
+com.example.gravityflip.app-lifecycle-viewmodel-2.7.0-10 /home/nazz/.gradle/caches/8.13/transforms/5b96e642610c101364246cec4d1bb8d3/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.gravityflip.app-jetified-lifecycle-process-2.7.0-11 /home/nazz/.gradle/caches/8.13/transforms/623f9c07a9d11259095ff2b4682b959c/transformed/jetified-lifecycle-process-2.7.0/res
+com.example.gravityflip.app-jetified-activity-ktx-1.8.2-12 /home/nazz/.gradle/caches/8.13/transforms/69ac88ddded178fdad2059c3bea0d50e/transformed/jetified-activity-ktx-1.8.2/res
+com.example.gravityflip.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-13 /home/nazz/.gradle/caches/8.13/transforms/737fd7ea84cad57de19086fda922e101/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.gravityflip.app-core-runtime-2.2.0-14 /home/nazz/.gradle/caches/8.13/transforms/746f1138c0d880fe58705ac0424ce468/transformed/core-runtime-2.2.0/res
+com.example.gravityflip.app-jetified-animation-release-15 /home/nazz/.gradle/caches/8.13/transforms/821f9b2d791c791591eccdb217fcd16e/transformed/jetified-animation-release/res
+com.example.gravityflip.app-jetified-material3-release-16 /home/nazz/.gradle/caches/8.13/transforms/93dc2a23fb0d74bdf7971b6f328a68d6/transformed/jetified-material3-release/res
+com.example.gravityflip.app-lifecycle-livedata-core-2.7.0-17 /home/nazz/.gradle/caches/8.13/transforms/94899890be63c16ccbbe25ecb5dbb1dd/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.gravityflip.app-jetified-ui-graphics-release-18 /home/nazz/.gradle/caches/8.13/transforms/9521d78e6ceb2f6789dc65a43401e652/transformed/jetified-ui-graphics-release/res
+com.example.gravityflip.app-jetified-ui-util-release-19 /home/nazz/.gradle/caches/8.13/transforms/980650a7832a7376707d7533e6d54149/transformed/jetified-ui-util-release/res
+com.example.gravityflip.app-jetified-annotation-experimental-1.4.0-20 /home/nazz/.gradle/caches/8.13/transforms/9b832952e091d9010148f5cb1f2e5d5f/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.gravityflip.app-lifecycle-runtime-2.7.0-21 /home/nazz/.gradle/caches/8.13/transforms/9dc228724ac894cc6ce44a9bebd742bb/transformed/lifecycle-runtime-2.7.0/res
+com.example.gravityflip.app-jetified-animation-core-release-22 /home/nazz/.gradle/caches/8.13/transforms/9e6c976bf2fea4cfb2cee9e491a6c416/transformed/jetified-animation-core-release/res
+com.example.gravityflip.app-jetified-ui-text-release-23 /home/nazz/.gradle/caches/8.13/transforms/b18e4f7e44ae021e986cb158dacea86c/transformed/jetified-ui-text-release/res
+com.example.gravityflip.app-jetified-ui-geometry-release-24 /home/nazz/.gradle/caches/8.13/transforms/bbe304878c7d572cfe20865468ae1954/transformed/jetified-ui-geometry-release/res
+com.example.gravityflip.app-jetified-customview-poolingcontainer-1.0.0-25 /home/nazz/.gradle/caches/8.13/transforms/bcd909b15c7a9c5a89fa342ddeeee35c/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.example.gravityflip.app-jetified-runtime-saveable-release-26 /home/nazz/.gradle/caches/8.13/transforms/bf7cb857b950d97b9e1aa99207cfd88f/transformed/jetified-runtime-saveable-release/res
+com.example.gravityflip.app-jetified-ui-unit-release-27 /home/nazz/.gradle/caches/8.13/transforms/c22529ebf5335d12f351a9553a63dcd8/transformed/jetified-ui-unit-release/res
+com.example.gravityflip.app-jetified-foundation-release-28 /home/nazz/.gradle/caches/8.13/transforms/d772df62b2faf3a988cb992959e52c8c/transformed/jetified-foundation-release/res
+com.example.gravityflip.app-jetified-material-icons-core-release-29 /home/nazz/.gradle/caches/8.13/transforms/df6bb2e756a0ca9324bb84b6d7a19620/transformed/jetified-material-icons-core-release/res
+com.example.gravityflip.app-jetified-material-ripple-release-30 /home/nazz/.gradle/caches/8.13/transforms/f1a1c69fb18952989fab19599bf8f700/transformed/jetified-material-ripple-release/res
+com.example.gravityflip.app-jetified-startup-runtime-1.1.1-31 /home/nazz/.gradle/caches/8.13/transforms/f7ebacd8ed548ff8acb9b280db919f96/transformed/jetified-startup-runtime-1.1.1/res
+com.example.gravityflip.app-core-1.12.0-32 /home/nazz/.gradle/caches/8.13/transforms/f81b51e5ad9bfa0b6b743bfcbb9c5dd2/transformed/core-1.12.0/res
+com.example.gravityflip.app-jetified-activity-1.8.2-33 /home/nazz/.gradle/caches/8.13/transforms/f835e8d3ef7825239fd23108d59fd3c5/transformed/jetified-activity-1.8.2/res
+com.example.gravityflip.app-jetified-savedstate-ktx-1.2.1-34 /home/nazz/.gradle/caches/8.13/transforms/f8f3626c6248ab209bef3db6c46ae582/transformed/jetified-savedstate-ktx-1.2.1/res
+com.example.gravityflip.app-jetified-ui-tooling-preview-release-35 /home/nazz/.gradle/caches/8.13/transforms/fefa2e30f324d32d30b8a545e711dd36/transformed/jetified-ui-tooling-preview-release/res
+com.example.gravityflip.app-resValues-36 /home/nazz/Dev/Gravity Flip App/app/build/generated/res/resValues/debug
+com.example.gravityflip.app-updated_navigation_xml-37 /home/nazz/Dev/Gravity Flip App/app/build/generated/updated_navigation_xml/debug
+com.example.gravityflip.app-packageDebugResources-38 /home/nazz/Dev/Gravity Flip App/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.gravityflip.app-packageDebugResources-39 /home/nazz/Dev/Gravity Flip App/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.gravityflip.app-debug-40 /home/nazz/Dev/Gravity Flip App/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.gravityflip.app-debug-41 /home/nazz/Dev/Gravity Flip App/app/src/debug/res
+com.example.gravityflip.app-main-42 /home/nazz/Dev/Gravity Flip App/app/src/main/res
