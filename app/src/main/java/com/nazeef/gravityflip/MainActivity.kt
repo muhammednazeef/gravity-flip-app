@@ -1,4 +1,4 @@
-package com.example.gravityflip
+package com.nazeef.gravityflip
 
 import android.content.Context
 import android.hardware.Sensor

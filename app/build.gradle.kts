@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.gravityflip"
+    namespace = "com.nazeef.gravityflip"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.gravityflip"
+        applicationId = "com.nazeef.gravityflip"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
