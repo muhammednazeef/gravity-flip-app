@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84208426335",
+    "project_id": "gravityflipapp-e2841",
+    "storage_bucket": "gravityflipapp-e2841.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84208426335:android:b612aa595c9aae5332eaea",
+        "android_client_info": {
+          "package_name": "com.nazeef.gravityflip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_68CmRazy1MINnGVhksZOP4z2Zr7kOIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
