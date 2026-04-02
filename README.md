@@ -34,7 +34,7 @@ Developer → GitHub → GitHub Actions → Build APK → Firebase → Tester De
 ## 📱 Application
 
 **App Name:** Gravity Flip
-**Package:** com.example.gravityflip
+**Package:** com.nazeef.gravityflip
 
 Features:
 
